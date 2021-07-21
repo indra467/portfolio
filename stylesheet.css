@@ -1,0 +1,458 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+.image{
+   
+    position:absolute;
+    left:62.5%;
+    top:0%;
+    display:block;
+    padding-bottom:0px;
+    
+  
+}
+div{
+    
+   
+    
+
+    
+    
+    color:white;
+    font-size: 45px;
+    font-family: 'Helvetica Neue', sans-serif,Abril Fatface, Georgia, 'Times New Roman', Times, serif;
+margin-left:10px;
+margin-right:30%;
+margin-top:10%;
+padding-bottom:0px;
+}
+h1:hover {
+    color:blue;
+}
+a.anime:hover {
+    color:red;
+    font-size: 1.1em;
+}
+
+a.best:hover {
+    color:gold;
+    font-size: 1.1em;
+}
+#nav {
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size:36px;
+}
+#nav ul{
+padding:4px;
+list-style-type: none;
+margin:none;
+
+
+
+}
+#nav li {
+display: inline;
+
+margin: 5px;
+vertical-align: middle;
+text-align:center;
+}
+#nav a {
+text-decoration:none;
+font-family:cursive;
+padding:6px;
+margin:0px;
+color: rgb(16, 133, 187);
+vertical-align: middle;
+text-align:center;
+
+
+}
+#nav a:hover {
+    display: inline;
+    border-radius: 25px;
+    background-color: lemonchiffon;
+    color:rgb(196, 52, 76);
+    }
+    div.name {
+        font-size:75px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:black;
+        margin-left: 20px;
+        margin-top: 101px;
+         margin-bottom: 0px;
+         width:916px;
+        height: 300px;
+        padding-bottom: 0px;
+         
+        
+        
+    }
+    div.name:hover {
+        
+        color: rgb(247, 2, 23);
+       
+        
+        border:3px dashed rgb(107, 154, 240);
+        border-radius:5px;
+        background-image: url(bc.png);
+        
+        overflow-x:scroll ;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+    .line {
+        border-bottom: 5px double white;
+        display:block;  
+        margin-top:0px;
+        padding:0px; 
+    }
+    div.design {
+        position:absolute;
+        background-image: url(de.png); 
+        width:1510px;
+        height:250px;
+        margin: 0px;
+        Padding: 0px;
+        overflow: scroll;
+    }
+    p.design{
+        color:rgb(51, 51, 51);
+        padding:0px;
+        margin:0px;
+    }
+    #home {
+display: inline;
+border-radius: 25px;
+background-color: lemonchiffon;
+color:rgb(196, 52, 76);
+    }
+    #academics {
+display: inline;
+border-radius: 25px;
+background-color: lemonchiffon;
+color:rgb(196, 52, 76);
+        }
+        p.i{
+            
+            background-color: salmon;
+            margin: 0px;
+            padding: 0px;
+            border: 0px;
+           
+            
+        }
+        #nav1 {
+            margin-top: 15px;
+            margin-left: 10px;
+            margin-bottom: 0px;
+            padding-bottom: 0px;
+            font-size: 36px;
+
+        }
+        #nav1 ul{
+        padding:4px;
+        list-style-type: none;
+        margin:none;
+        
+        
+        
+        }
+        #nav1 li {
+        display: inline;
+        
+        margin: 5px;
+        vertical-align: middle;
+        text-align:center;
+        }
+        #nav1 a {
+        text-decoration:none;
+        font-family:cursive;
+        padding:6px;
+        margin:0px;
+        color: rgb(16, 133, 187);
+        vertical-align: middle;
+        text-align:center;
+        
+        
+        }
+        #nav1 a:hover {
+            display: inline;
+            border-radius: 25px;
+            background-color: lemonchiffon;
+            color:rgb(196, 52, 76);
+            }   
+.info {
+    
+ 
+ background-color:rgb(244, 244, 248);
+ opacity: 0.8;
+ border-radius: 10px;
+ 
+ font-size: 25px;
+ color:rgb(15, 15, 15);
+ padding: 0px;
+ margin: 10px;
+ border: 0px;
+ 
+ top: 0%;
+ float: right;
+ width: 1050px;
+ height: 400px;
+ text-align: center;
+ font-family: 'Helvetica Neue', sans-serif,Abril Fatface, Georgia, 'Times New Roman', Times, serif;
+ 
+ 
+ 
+ 
+ 
+ 
+            }    
+
+
+
+
+
+
+            .SIDELEFT {
+
+                padding: 0px;
+                margin: 10px;
+                border: 0px;
+ 
+                
+
+               
+                border-radius: 6px;
+                
+                font-size: 25px;
+                color:rgb(247, 2, 23);
+                float: left;
+                height: 400px;
+            }
+                
+               
+
+
+             
+            .im{
+                
+                width: 350px;
+                border-radius: 6px;
+                border:3px solid rgb(243, 244, 247);
+               
+                
+                
+            }
+            
+            
+            #info3:hover {
+                background-image: url(aer1.jpeg);
+                
+                -webkit-text-stroke: 1px white;
+                font-size: 36px;
+                
+
+            }
+            #info2:hover {
+                background-image: url(sc.jpeg);
+                font-size: 36px;
+                color: ivory;
+                -webkit-text-stroke: 1px rgb(17, 17, 17);
+            }
+            #info1:hover{
+                background-image: url(book.jpg);
+                -webkit-text-stroke: 1px white;
+                font-size: 36px;
+            }
+            .ib2a{
+                width: 440px;
+                padding: 20px;
+                margin-left: 20px;
+                margin-right: 20px;  
+                float: left;      
+               }
+               .ib2b{
+                width: 440px;
+                padding: 20px;
+                margin-left: 20px;
+                margin-right: 20px;  
+                float: right;      
+               }
+               .ib{
+                width: 300px;
+                height:300px;
+                padding: 20px;
+                margin-left: 60px;
+                margin-right: 20px; 
+                float:none;
+               }
+               .ib1{
+                width: 350px;
+                padding: 20px;
+                margin-left: 40px;
+                       
+               }
+               .back{
+                   width: 40px;
+               }
+               .pt{
+                
+                width: 700px;
+                border-radius: 6px;
+                border:3px solid rgb(243, 244, 247);
+               
+                
+                
+            }
+               .PTLEFT {
+
+                
+                margin: 10px;
+                border: 0px;
+ 
+                
+
+               
+                border-radius: 6px;
+                
+                font-size: 25px;
+                color:rgb(247, 2, 23);
+                float: left;
+                height: 400px;
+            }
+            
+            .PTRIGHT {
+
+                padding: 0px;
+                margin: 10px;
+                border: 0px;
+                
+                
+
+               
+                border-radius: 6px;
+                
+                font-size: 25px;
+                color:rgb(247, 2, 23);
+                float: right;
+                height: 400px;
+            }
+            .PTLEFT1 {
+
+                
+                margin: 10px;
+                border: 0px;
+                padding-top: 300px;
+ 
+                
+
+               
+                border-radius: 6px;
+                
+                font-size: 25px;
+                color:rgb(247, 2, 23);
+                float: left;
+                height: 400px;
+            }
+            
+            .PTRIGHT1 {
+
+                padding: 0px;
+                margin: 10px;
+                border: 0px;
+                padding-top: 300px;
+                
+
+               
+                border-radius: 6px;
+                
+                font-size: 25px;
+                color:rgb(247, 2, 23);
+                float: right;
+                height: 400px;
+            }
+            .d {
+                width: 99%;
+                
+                border:10px solid rgb(233, 233, 238);
+            }
+            #info4:hover {
+                
+                
+                -webkit-text-stroke: 1px white;
+                font-size: 36px;
+            }
+            #actext {
+    
+ 
+                
+                border-radius: 10px;
+                
+                font-size: 25px;
+                color:rgb(252, 246, 246);
+                padding: 0px;
+                margin: 10px;
+                border: 0px;
+                
+                top: 0%;
+                float: right;
+                width: 680px;
+                height: 733px;
+               
+                font-family: 'Helvetica Neue', sans-serif,Abril Fatface, Georgia, 'Times New Roman', Times, serif;
+                
+                
+                
+                
+                
+                
+                           } 
+                           .icon{
+                               width: 250px;
+                               padding:20px;
+                               padding-right: 40px;
+                               padding-bottom: 30px;
+                           }   
+                           .icon1{
+                            width: 300px;
+                            padding:10px;
+                            padding-right: 40px;
+                            padding-bottom: 15px;
+                        }  
+                        .icon2{
+                            width: 400px;
+                            padding:10px;
+                            padding-right: 40px;
+                            padding-bottom: 15px;
+                        }  
+                        #actext1 {
+    
+ 
+                
+                            border-radius: 10px;
+                            
+                            font-size: 75px;
+                            color:rgb(252, 246, 246);
+                            padding: 0px;
+                            margin: 10px;
+                            border: 0px;
+                            
+                            top: 0%;
+                            float: right;
+                            width: 680px;
+                            height: 733px;
+                            text-align: center;
+                           
+                            font-family: 'Helvetica Neue', sans-serif,Abril Fatface, Georgia, 'Times New Roman', Times, serif;
+                            
+                            
+                            
+                            
+                            
+                            
+                                       } 
+                          
